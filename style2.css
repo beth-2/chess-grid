@@ -1,0 +1,165 @@
+.table div{
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    width: 61px;
+    height: 54px;
+    text-align: center;
+    font-size: 40px;
+}
+.table{
+    justify-content: space-around;
+    background-color: floralwhite;
+    position: relative;
+    display: grid;
+    border:1px solid chocolate;
+    margin-left:440px;
+    margin-top: -450px;
+    width:500px;
+    grid-template-columns: auto auto auto auto auto auto auto auto ;
+}
+.black{
+    background-color:rgb(126, 126, 126) ;
+}
+
+body{
+    background-color: #353b48;
+}
+p{
+    text-align: center;
+    font-size: 50px;
+}
+pre{
+    color: white;
+}
+.new{
+    margin-left: 950px;
+    margin-top: -460px;
+}
+.newbelow{
+    margin-left: 950px;
+    margin-top: 0px;
+}
+.winners{
+    margin-left: 850px;
+    margin-top: -400px;
+    font-size: 50px;
+}
+.ankram{
+    margin-top: 230px;
+    margin-left: 550px;
+}
+.formerwinners{
+    margin-top: -400px;
+    font-size: 50px;
+}
+.kramtop{
+    margin-top: 225px;
+}
+.formerwinners2{
+    margin-left: 850px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.kastop{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners3{
+    font-size: 50px;
+    margin-top: -350px;
+}
+.karkas{
+    margin-top: 180px;
+}
+.formerwinners4{
+    margin-left: 880px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.fiskar{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners5{
+    font-size: 50px;
+    margin-top: -350px;
+}
+.fisspa{
+    margin-top: 180px;
+}
+.formerwinners6{
+    margin-left: 880px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.petspa{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners7{
+    font-size: 50px;
+    margin-top: -350px;
+}
+.pettal{
+    margin-top: 180px;
+}
+.formerwinners8{
+    margin-left: 880px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.talsmy{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners9{
+    font-size: 50px;
+    margin-top: -350px;
+}
+.botsmy{
+    margin-top: 180px;
+}
+.formerwinners10{
+    margin-left: 700px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.eubot{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners11{
+    font-size: 50px;
+    margin-top: -350px;
+}
+.euale{
+    margin-top: 180px;
+}
+.formerwinners12{
+    margin-left: 700px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.caale{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners13{
+    font-size: 50px;
+    margin-top: -350px;
+}
+.cala{
+    margin-top: 180px;
+}
+.formerwinners14{
+    margin-left: 700px;
+    font-size: 50px;
+    margin-top: -350px;
+}
+.laste{
+    margin-top: 180px;
+    margin-left: 550px;
+}
+.formerwinners15{
+    font-size: 50px;
+    margin-top: -350px;
+}
